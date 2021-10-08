@@ -1,2 +1,2 @@
 # pwgen
-Simple password generator, deploy to web later or somethin idk
+Simple password generator, updates soon-ish???
